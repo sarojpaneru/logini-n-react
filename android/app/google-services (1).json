@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515132478123",
+    "project_id": "sarojproject-26769",
+    "storage_bucket": "sarojproject-26769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515132478123:android:44ff21b8db1d4d314e1dee",
+        "android_client_info": {
+          "package_name": "com.sarojproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsfqZ_wOCcDHvDmtLPgZ0xV2O9GGRkk9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
